@@ -1,1 +1,0 @@
-conslole.log("Esto es un archivo de prueba");
